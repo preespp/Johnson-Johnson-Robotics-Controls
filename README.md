@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./github_assets.png" alt="Johnson & Johnson MedTech Logo" width="400">
+</p>
+
 ## File Overview
 
 ### Task 1: Control System Diagnostics
